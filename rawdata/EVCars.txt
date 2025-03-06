@@ -1,0 +1,167 @@
+On the southern edge of Brussels, where the city turns to suburbs, the future of Germany’s most successful automaker is taking shape inside a peculiar sort of car factory. Here, there are no exhaust pipes, transmissions or fuel tanks. There are no spark plugs, radiators or manifolds. What the Volkswagen Group factory does have, however, are batteries stacked to the rafters.
+
+Thirty-six shoebox-sized battery modules, each containing a dozen lithium-ion cells, are packed into seven-foot long electric-battery packs and slung under the floor of each sport utility vehicle produced here. The first electric SUV from Volkswagen’s luxury Audi brand, the e-tron, can go 400 kilometers (nearly 250 miles) on a single battery cycle and be recharged in as little as half an hour. The styling is conventional, the interior is luxurious and the ride is nearly silent.
+
+The e-tron SUV has one job for Volkswagen: Prove that a carmaker that has relied almost exclusively on the internal combustion engine since it was founded 82 years ago can produce electric vehicles people want to buy and policymakers will embrace as they cast around for ways to tackle the climate crisis. Success means that Volkswagen will overtake rivals, including Tesla, in electric car sales and fend off new challengers from China and Silicon Valley; failure could signal the beginning of the end for a company with 665,000 employees and annual revenue of $265 billion.
+
+Volkswagen isn’t alone. Established carmakers around the world are ripping up their business models in the hope of adapting to a new world in which electricity replaces gasoline and diesel. Factories are being overhauled to produce electric cars, and automakers are snapping up every battery they can find. The high cost of developing electric cars is forcing some companies to find partners and turning others into acquisition targets. The need to meet strict emissions standards in China and Europe means that executives are paying far more attention to the policies being put in place in Beijing or Brussels, than what rivals are building in Detroit or Wolfsburg, Volkswagen’s hometown.
+
+The German group, which also owns Porsche, Bugatti, Skoda, Lamborghini and SEAT, is rising to the challenge with a radical transformation that is unparalleled since World War II. The company is spending €30 billion ($34 billion) over the next five years to make an electric or hybrid version of every vehicle in its lineup, and it plans to launch 70 new electric models by 2028. By the end of 2030, it wants four of every 10 cars it sells to be electric, a mass market play that hinges on the success of a new line of vehicles called the “ID.”
+
+The overhaul has profound implications for the world’s largest carmaker as it tries to turn the page on its costly diesel emissions scandal. Volkswagen is spending billions of dollars to retrofit factories from Germany to China to produce cars based on its modular electric car production platform, or MEB. The company has also signaled that it will use some of the money it makes from selling fuel-powered cars to produce its own batteries and build charging networks.
+
+The initiatives are expensive. But the level of investment by Volkswagen and its competitors, coupled with the aggressive emissions targets set by regulators, show there’s no turning back. All of this leads to a new question: Can Tesla maintain its lead in the global race to the electric car?
+
+False starts
+History isn’t the best indicator of who will emerge from this battle victorious. The industry has a poor track record with electric cars. General Motors’ EV1 appeared on American roads in 1996, the same year the auto industry successfully lobbied against a mandate from the California Air Resources Board to make more electric vehicles. The model was canceled in 2003, producing a trail of unhappy customers and the conspiratorial documentary ‘Who Killed The Electric Car?’ Chevrolet pulled the plug on the Volt, which never sold in significant numbers, last year. Nissan’s Leaf remains in production but it has failed to achieve the level of commercial success envisioned by the company’s former chairman, Carlos Ghosn. More broadly, demand has been hampered by fears over the driving range of the cars, a lack of charging infrastructure and high sticker prices.
+
+Until recently, Volkswagen never had much reason to bother with electric cars. Instead, it poured investment dollars into making its diesel engines more fuel efficient and affordable, which helped it to sell huge volumes of cars and overtake Japanese rival Toyota. In 2018, Volkswagen delivered a record 10.8 million cars. It says just 40,000 of those, or 0.4%, were electric vehicles. Another 60,000 were plug-in hybrids. Global sales of electric cars have been only slightly less anemic: 1.3 million of the roughly 95 million cars sold around the world in 2018 were battery electrics, according to the consultancy LMC Automotive.
+
+Disinterest on the part of traditional carmakers cleared the way for the opening laps of the race to be won by Tesla, the company run by indefatigable entrepreneur Elon Musk. Tesla sold over 220,000 electric cars in 2018, according to LMC Automotive, roughly 70,000 more than its nearest competitor, Chinese state-owned BAIC Group. The global alliance of Renault, Nissan and Mitsubishi Motors sold roughly 130,000 electrics last year, while Volkswagen’s German rivals BMW and Daimler sold 33,000 and 14,400, respectively. At the bottom of the heap was Toyota, the world’s second largest carmaker, which has chosen to focus on hybrid cars and fuel cell technology. It sold only 1,000 electric vehicles last year, an increase from zero in 2017. LMC, whose data does not include sales in South America, Canada and Mexico, or commercial vans, has Volkswagen selling 26,000 electrics.
+
+Build it and they will come
+While the electric car has a checkered past, there is a consensus among auto industry executives and analysts that a tipping point is approaching where mass adoption will become unavoidable because of falling battery costs, pressure from regulators and generous government subsidies. “These factors have come together to force the traditional industry to take electrification seriously — faster than we had previously expected,” said Max Warburton, an analyst at research firm Bernstein. “This is now really happening.”
+
+According to Bernstein, dramatic declines in the price of batteries will allow leading automakers to sell fully electric vehicles for less than cars powered by gasoline and diesel as soon as 2022. Electric cars, they argue, are already gaining traction: As recently as 2010, annual sales were close to zero. “There’s just such an incredible amount of money being poured into electric cars,” said Al Bedwell, the director of global powertrain at LMC Automotive.”I’ve been looking at this industry for 20 years, and my real gut feeling is that it’s kind of unstoppable now.”
+
+Bedwell said that traditional carmakers are being prodded to move more quickly by two additional factors: strict new EU regulations that require auto manufacturers to dramatically reduce the CO2 emissions starting next year. And, in China, already the world’s largest market for electric cars, the government has implemented a system that requires carmakers to make clean vehicles or purchase credits for the CO2 emissions their cars produce.
+
+Volkswagen, which has paid more than $30 billion in penalties since admitting in 2015 to rigging the emissions of millions of diesel cars, has embraced electrics with the enthusiasm of a religious convert. “Volkswagen will change radically,” CEO Herbert Diess told shareholders in March. “Some of you may still be rubbing your eyes in amazement. But, make no mistake — the supertanker is picking up speed.”
+
+While the company has telegraphed its mass market ambitions for electric cars, its luxury brands are taking the lead. The first fully electric Porsche, the Taycan, is scheduled to go on sale later this year. Audi, meanwhile, plans to offer 12 purely electric models by 2025. The brand brought only electrified vehicles to this year’s Geneva Motor Show, including a compact SUV that is expected to enter production by the end of 2020. The success of these early luxury models is vital: Volkswagen produces over 10 million vehicles each year but relies on selling 2 million Audis and Porsches for 65% of its profit.
+
+The challenge for Audi
+The man charged with making Audi electric vehicles a success is Stefan Niemand, the brand’s head of electrification. In an interview at Audi headquarters in the Bavarian city of Ingolstadt, the barrel-chested executive argued that the company is well prepared for its electric future. The next generation of electric vehicles, he says, will be cheaper and packed with technology that customers want. “We learned a lot with the e-tron battery system, the crash system, the cooling system, the connection system and all this stuff. And of course, we now better understand where we can bring costs down, where we can optimize the system, where we can gain range or performance.”
+
+The most important question is whether customers will respond to vehicles like the e-tron. “I think we did all that we can. We made the first car, and I think for the first car, it’s very, very good,” says Niemand.
+
+Pressed on whether consumers are ready to adopt electric vehicles en masse, Niemand thinks back to his first experience with the R8 e-tron, an electric version of the Audi 2-seat sports car that has been tested in various forms since at least 2010. Before driving the car, a professional driver warned the executive that it would be much faster than he expected. Niemand said he thought the driver was joking. “Then I pushed the throttle, and … I knew, forget about everything else.”
+
+His experience left him in no doubt: “This is the future.”
+
+If the hearts and minds of die-hard speed freaks can be won, the question for Audi is how to gain an advantage over Tesla, which has become synonymous with electric cars and competes for the same luxury customers as the German brand. For Niemand, the answer lies in doing what Audi has done for more than 100 years: build cars that people want to drive. “This is what we’re really, really good at,” he said. “That’s the advantage. If you compare the e-tron to other fully electric cars from newcomers, then you see the knowledge that we have in building cars. I think customers will respect this.”
+
+Niemand acknowledges that there are things Audi can learn from Tesla, especially when it comes to the speed of innovation. But when it comes to production, he said that Audi has a major advantage. “Mr. Musk talked about the production hell,” he said, referring to comments the Tesla CEO made in 2017. “This is where we have much more experience and knowledge. With the launch of the e-tron, we were not in the production hell, and we are still not, and we will not get into any kind of production hell.” Niemand is more dismissive of attempts by tech companies like Uber, Google and Apple to break into the auto business. “If you look at all the autonomous driving efforts from Uber and Google and Apple, and if you see the outcome up to now, it’s close to nothing. Why? Because it is still about a car.”
+
+Everything changes
+Tesla has one major advantage over its more traditional competitors: No baggage. The American upstart doesn’t have a big dealership network, entrenched unions or a legacy business to manage. “It’s a very costly exercise for traditional carmakers to get into the electric vehicle space in a big way,” said Bedwell, the LMC Automotive analyst. “At the same time, they’ve got to support all of their conventional activities. That’s where most of their revenue is. Volkswagen, for instance, can’t stop selling internal combustion engine cars. It can’t stop selling diesel cars in Europe.”
+
+The urgent need to free up cash for new technology is causing automakers to find partners to share the costs. BMW and Daimler, which compete hard in the luxury market, have announced a partnership focused on highly-automated and autonomous driving. They’re also investing $1 billion in a new venture to develop mobility services, including ride-sharing and charging systems for electric cars. Ford will build vehicles using Volkswagen’s electric platform under a deal announced in July. Volkswagen will meanwhile join its US rival in investing in Argo AI, an autonomous vehicle company valued at $7 billion. More dramatic changes are under consideration. In May, Fiat Chrysler proposed a merger with Renault that would have created the world’s third largest carmaker and produced annual cost savings of more than €5 billion ($5.6 billion). When the proposal was withdrawn, Renault lamented the lost opportunity, saying the merger had “great financial merit” and “compelling industrial logic.”
+
+The survival of some of the world’s most storied car brands hangs in the balance. According to LMC Automotive’s forecast, the huge amount of investment being deployed by Volkswagen will help it sell over 1.4 million electric cars a year by 2025 — more than any other carmaker and over three times the sales Tesla is expected to produce. The alliance of Renault, Nissan and Mitsubishi Motors is on track to rank second in 2025, selling nearly 590,000 electric vehicles that year. China’s Geely, which owns Volvo, will rank third. Tesla will be fourth with 413,000 vehicles, followed closely by Toyota. Daimler, Hyundai, General Motors and Ford are each forecast to sell between 330,000 and 400,000 cars in 2025.
+
+"If you look at all the autonomous driving efforts from Uber and Google and Apple, and if you see the outcome up to now, it's close to nothing. Why? Because it is still about a car.”
+
+STEFAN NIEMAND, AUDI
+
+Bedwell said that Volkswagen’s resources and expertise will help it power past Tesla, which will face intense new competition for luxury car buyers and could continue to experience growing pains that inhibit its ability to scale up production dramatically. “They just have that position,” Bedwell said of Volkswagen, “to ship those kind of volumes and to produce them more efficiently than Tesla can and to make money on it.”
+
+The entire industry is gearing up for the challenge. Ford CEO Jim Hackett recently told CNN Business that building cars is not just about technology. “We have to have an industrial model. Ford is really good at this,” he said. And he took a shot at Musk, who is also the CEO of spacecraft company SpaceX. “I happen to compete with a rocket scientist who’s really smart, and I respect that about him,” Hackett said. “And yeah, he’s competing with the ultimate disruptor in Henry Ford.”
+
+For now, however, Tesla has the advantage. The company expects to deliver between 360,000 and 400,000 vehicles this year. It says production could increase to 500,000 in the 12 months to June 30, 2020, depending on how quickly a new factory in Shanghai comes online. And leaks suggest that the Porsche Taycan, which is often described as a “Tesla killer,” won’t live up to those expectations. According to analysts at UBS, the car will take a half second more than the Tesla S Performance model to go from zero to 100 kilometers per hour. The Porsche also won’t have the range of the Model S.
+
+Porsche says performance is about more than raw speed. Taycan buyers will get better craftsmanship and materials, but they’ll be paying more too. The car is expected to sell for at least €90,000 ($100,000) in Germany, and the Turbo version will cost upwards of €150,000 ($167,000) — that’s roughly €50,000 ($56,000) more than the souped up Model S. “We find it intriguing that not even a leading sports car producer could beat Tesla on key metrics,” said the UBS analysts.
+
+Speaking a stone’s throw from a museum that is packed to the rafters with diesel and gasoline cars, Audi’s Niemand makes the case for radical change.
+
+“Thirty years ago or 40 years ago, a diesel was a no-go engine. It had nearly no horsepower, it needed like one minute to pre-heat the system before you could start the engine, all this stuff. And then you see what diesel can do today, it’s a totally different story,” explained the executive. “The same I think is true for electric mobility. We have now [reached] a point where you can make cars like the e-tron that really meet the demands of a lot of customers. They are not perfect, but they are very good.”
+
+Speaking in March as he unveiled the Model Y, Tesla CEO Musk said: “Our goal all along has been to try to get the rest of the car industry to go electric.”
+
+Whoever comes out on top, Musk will soon get his wish.
+
+Electric cars are getting cheaper and they can go farther on a single charge. Still, most car shoppers have one big concern: How will I keep an electric car charged while I’m on a long road trip?
+
+Gas stations are everywhere. A typical highway exit might have several of them, each with banks of pumps at the ready. And the process is fast: Filling the tank takes just a few minutes. There’s rarely any need to plan fueling stops ahead of time. When the tank is running low, it’s just a matter of pulling off at the next exit, filling the tank, and getting back on the highway. Snacks, drinks and restrooms are usually available there, too.
+
+But there are far fewer electric car fast chargers along the highway. Also, despite advances in charger and battery technologies, it still takes much longer – typically about 30 minutes with today’s fast chargers – to recharge a battery than to pump liquid into a tank. (That time will go down a lot in the future, but not for all cars or at all chargers.)
+
+To make matters worse, EV fast chargers often aren’t located near convenience stores or restaurants. So, while drivers have longer to wait, there’s not much to do but sit in the car while it recharges. While some are located along highways that have rest stops, others are often in shopping center parking lots, a long walk from the stores, or at car dealerships or hotels at which you might not be staying.
+
+If you build it, they will buy
+Electric cars don’t need fast chargers all the time, of course. The vast majority of the time, electric cars are charged at home or at work, using chargers that can take six to eight hours. Fast chargers are different. They are designed to quickly fill a car’s battery – not all the way, which would stress the battery, but usually up to about 80% – so people can get back on their way.
+
+Fast chargers are usually only needed when people want to go on long drives. These chargers are important, though, because people considering buying an electric car need to have confidence they can take the occasional road trip.
+
+There are a handful of companies and organizations looking to address that problem. Several have announced partnerships and initiatives to build big networks of EV fast chargers. Some, like EVgo and Tesla, already have fairly extensive networks.
+
+How much customers pay to charge their cars – and how they pay – vary. Customers can be charged by the minute, by the kilowatt-hour, or they can pay a flat rate per month. Different companies have “interoperability” agreements with one another so someone who has an account with say, Chargepoint, might be able to use chargers operated by Greenlots and vice versa.
+
+From a business perspective, the chargers by themselves aren’t always the point. Parking garages, stores and restaurants often install electric car chargers as a way to attract customers. The company that runs the charger will usually charge some sort of fee. For a company like Tesla, chargers are also a major selling point for the company’s cars. Tesla executives have frequently said its Supercharger network is not intended as a profit center for the company and the money charged, about 28 cents per kilowatt hour, is just to cover costs. On a recent road trip in a Tesla Model S Long Range, it cost about $20 to charge the car to 80% at a Supercharger. Tesla currently has about 1,600 Supercharger stations globally.
+
+Volkswagen provides the financing behind Electrify America, which is working on one of the largest charging networks in the US. That money is being provided thanks to a settlement VW reached with US regulators over the automaker’s diesel emissions scandal.
+
+VW is also planning one of the largest roll outs of all-electric models in the coming years, but Electrify America is specifically forbidden from using its charger network or marketing to benefit Volkswagen. Electrify America is operated as an entirely separate company and executives insist the company will, on its own, make a profit from people using its charging stations. Electrify America expects to have about 500 fast chargers in the US by the end of the year.
+
+General Motors and the construction company Bechtel are also in the early stages of teaming up on a proposed charging network. It will be available for use by a variety of electric cars, not just GM’s. But it should also help GM in its efforts to sell its electric cars.
+
+“You’re hoping that you place [the chargers] in the right place, and that as the number of vehicles increases, that you’re able to get your utilization to a high enough level where you can start making some money off of them,” said Ben Kellison, a consultant with the firm Wood Mackenzie.
+
+But not everyone is looking for those high traffic routes.
+
+Duke Energy, an energy provider in the Southeast United States, has begun installing chargers along less-traveled areas, starting with rural areas in northern Florida, where the company will be installing 50 fast charging stations this year. Ultimately, Duke wants to spur broader adoption of electric cars among its home and business electricity customers.
+
+Duke’s chargers will be there to give drivers the confidence that they can go anywhere – not just between big cities. If the chargers are rarely used, that’s fine, explained Lang Reynolds, director of electric transportation at Duke Energy. The cars will mostly plug into the power grid at home at night, leading to more efficient use of Duke’s electricity generating capacity.
+
+Royal Dutch Shell has recently acquired two different electric vehicle charging companies, the European EV charging company NewMotion and GreenLots, a US company that provides software for running EV charging networks. Among other things, these acquisitions provide another service Shell gas stations can offer customers even as they switch away from gasoline-powered cars.
+
+And this isn’t just happening in the US. In China, BP recently announced a partnership with the ride hailing service Didi to install a network of car charging stations there. BP is already rolling out charging stations in its home market, the United Kingdom.
+
+Challenges for charging stations
+Installing a fast charging station isn’t always simple. This is the main reason GM teamed up with Bechtel, a company that has experience working with utilities and local governments on infrastructure projects. For one thing, there are regulatory and permitting issues. Then there’s the need to coordinate with local utilities to make sure a charging station can get all the power it needs. And all of this, of course, varies from one state – and even one city – to another.
+
+The chargers themselves aren’t simple, either. While gasoline pump nozzles come in a standard size, there are different types of electric car chargers. For instance, Tesla has its own proprietary charging network and its own chargers, which it calls Superchargers. Tesla cars require a special adapter to charge from other chargers, most of which use either the CCS or CHAdeMO standard, each of which is different from the other. And that also raises the challenges of counting how many chargers there actually are. Is one charger with two different types of charger cords a single charger or is it two chargers?
+
+There are about 13,000 electric vehicle fast charging stations in the United States, according to data from the US Department of Energy. That compares to roughly 332,000 gas stations. There will likely never be as many fast chargers as there are gas stations, said Pat Romano, CEO of ChargePoint, a company that operates software networks for chargers internationally. That’s because, most electric vehicle charging will be done at home or at work and most electric cars have navigation systems that will guide them to the chargers. Drivers won’t be coming across them haphazardly the way they typically find gas stations. That lessens the need to place them anywhere they might conceivably be needed.
+
+There’s a lot of experimentation still going on with how best to place fast chargers, whether for maximum use, convenience for the few, or as a way to attract customers for businesses, said Wood Mackenzie’s Kellison. And the best way to make money from them is also a question.
+
+“Anybody who’s saying 10 to 15 years from now they know exactly how this is going to run is talking a little too early to have a good idea of how it will shake out,” he said.
+
+In the future, cars will be electric. They will drive themselves. People who use them might never own them, but share them instead.
+
+The auto industry is going through massive change – and Tesla and its outspoken CEO, Elon Musk, are seen as the great disruptors. But as Ford CEO Jim Hackett pointed out during a recent interview for CNN Business’ The Table with Poppy Harlow in Detroit, his company caused, arguably, the biggest industrial disruption of the entire 20th century. And he’s not about to let anyone else take away that legacy.
+
+“I happen to compete with a rocket scientist who’s really smart, and I respect that about him,” Hackett said of Musk, who is also the CEO of spacecraft company SpaceX. “And yeah, he’s competing with the ultimate disruptor in Henry Ford.”
+
+When the Ford (F) Model T was introduced in 1908, there were 200,000 cars on America’s roads. By the time it went out of production in 1927, there were 20 million – and about half of those cars were Model Ts.
+
+The Model T disrupted not just the auto industry, but just about everything in America. It led to motels, parking lots, gas stations, highways and traffic jams. That one affordable, rugged machine literally altered the American landscape forever.
+
+Next to that, Tesla (TSLA)’s impact seems modest.
+
+Sure everyone agrees that, eventually, most cars will be electric. Tesla, just 16 years old, is already selling more electric cars than any other automaker. Even the long-established industry titans that are just now venturing into electric cars owe a debt to Musk. His company has made electric cars seem cool and desirable.
+
+But that doesn’t mean the future of the industry lies solely in Tesla’s hands, said Hackett.
+
+“[F]itness, as we were saying, is a compendium of things that you have to get right. It’s not just the technology,” Hackett said. “In this case, we have to have an industrial model. Ford is really good at this.”
+
+Hackett gestured west toward Dearborn, Michigan – Henry Ford’s birthplace and the location of Ford’s global headquarters, as well as its most famous factory, the River Rouge Complex.
+
+“[It] took 12 hours to build a vehicle before [Henry Ford] built it. It went down to 52 minutes,” Hackett said. “Today, we build an F-150 every 53 seconds.”
+
+When it opened in 1917, River Rouge was revolutionary. Henri Citroën, Louis Renault and Kiichiro Toyoda, founder of the Toyota Motor Company, all visited Dearborn to see how Ford did it, taking lessons back to their home countries.
+
+Tesla, on the other hand, has famously struggled to increase production at its Fremont, California, factory and, even as output has risen, quality issues remain. Despite being impressed by their practicality and performance, Consumer Reports doesn’t recommend any Tesla products because of poor reliability.
+
+Of course, having been a disruptive force over a century ago doesn’t mean much if the industry goes on changing without you. Sears changed American retailing in the 20th century, but that hasn’t helped it compete against Amazon in the 21st. Hackett’s job is to help Ford manage the raft of changes heading the auto industry’s way today.
+
+Ford’s profits still rely heavily on those gasoline- and diesel-powered cars and trucks being turned out one-a-minute. But Hackett knows the future will be different – and he insists that Ford will not be caught unawares.
+
+As it works to ready itself for the future, Ford has been cutting jobs, making investments and forming partnerships. The automaker recently invested $500 million in Rivian, a Michigan-based company working on electric pickup trucks and SUVs, and the two companies are working together on a plug-in vehicle for Ford.
+
+Similarly, Ford’s new partnership with Volkswagen will also yield two new electric models for the European market. As part of the deal, Volkswagen agreed to join Ford in investing in Pittsburgh-based Argo AI, an autonomous vehicle platform company. Earlier this year, Ford invested $1 billion in Argo, a bold move that proved the company was serious about self-driving technology.
+
+Lyft and Uber have said their ride sharing services will someday spell the end of car ownership, but Hackett disagrees.
+
+“Absolutely we will be selling cars, and trucks, and other kinds of products, because the future disruption is not coming from rides… We already have rides today. So, the disruption is different that’s coming,” he told Harlow.
+
+To Hackett, that disruption will come from self-driving technology and the artificial intelligence used to make cars smarter.
+
+He said ride sharing companies, like Uber, Lyft and China’s Didi, will use self-driving technology to make taxi rides cheaper. At the same time, a family can buy an autonomous car for their teenage daughter and feel better knowing that the intelligence within the car will reduce her chances of having an accident.
+
+Hackett expects Ford will have fully autonomous vehicles ready by 2021 and will even be ready to start testing them on real roads without human drivers, assuming regulators will permit that.
+
+As CEO of Ford, Hackett is operating what is essentially a family-run corporation. Thanks to Henry Ford’s deep mistrust of Wall Street, there remains a special class of Ford stock that can only be held by Ford family members. This stock represents just 2% of Ford’s shares but these elite stockholders have 40% of the voting power of all Ford stock. That family involvement, held over generations, gives Ford a longer view, said Hackett.
+
+“Families have a longer arc and we have family owners out here,” Hackett said. “They care about the shareholder return, they care about making money, but they’re purpose driven and that’s it. We’re in service of somebody else in these jobs, not ourselves.”
